@@ -1,0 +1,8 @@
+{
+  "realm": "temasek-demo",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm8K+ZLbT2791FiBDCpATkQc6lOyC7VfxqoGnCsJtIl+KHCKHWexaxrvnj9DMIN+DcuCwAAJw7K6OPQWcbosLZYHWB7RpWmbdN3Mmgt6TMfP3CSvYDwlX5xHFBoeJXDT9HWtYJNC0yfDhDW4RjXCcffGjBYRlX3NUlaPhBDxjt2xfuwoI6xN1UNXwBMUknoy/7hXZibX8X8+V0mU4+MdBfcCZznAQ8OsX0qHXCIkQxl5I4TjkBdlM9zpKAaxU+CdkBkH1hBQcZL+ZO/6xkMEuQ8mrhpre+EXlkGh250KZBSRNtPnzNGM83qJnzMNnPf4rLH3I3TsM3NV91SSoLkMNmQIDAQAB",
+  "bearer-only": true,
+  "resource": "temasek-demo-client",
+  "enable-cors": true
+  
+}
