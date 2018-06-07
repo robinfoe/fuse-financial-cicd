@@ -50,9 +50,9 @@ public class AuthenticationFilter implements Filter{
 				throw new IllegalArgumentException("Not Authorized");
 
 		
-			Map<String,Object> claimMaps = jwt.getClaim("resource_access").asMap();
-			if(!claimMaps.containsKey("temasek-demo-client"))
-				throw new IllegalArgumentException("Not Authorized");
+			//Map<String,Object> claimMaps = jwt.getClaim("resource_access").asMap();
+			//if(!claimMaps.containsKey("temasek-demo-client"))
+			//	throw new IllegalArgumentException("Not Authorized");
 		
 			//getClaim("resource_access") != null
 //			if(jwt.getClaim("resource_access") != null) {
